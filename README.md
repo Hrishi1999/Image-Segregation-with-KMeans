@@ -1,1 +1,1 @@
-# Image-Segregation-with-KMeans
+# Image Segregation with KMeans
